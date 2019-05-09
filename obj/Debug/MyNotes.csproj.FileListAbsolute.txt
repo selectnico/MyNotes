@@ -1,0 +1,11 @@
+C:\Users\N\source\repos\MyNotes\MyNotes\bin\Debug\MyNotes.exe.config
+C:\Users\N\source\repos\MyNotes\MyNotes\bin\Debug\MyNotes.exe
+C:\Users\N\source\repos\MyNotes\MyNotes\bin\Debug\MyNotes.pdb
+C:\Users\N\source\repos\MyNotes\MyNotes\obj\Debug\MyNotes.Properties.Resources.resources
+C:\Users\N\source\repos\MyNotes\MyNotes\obj\Debug\MyNotes.csproj.GenerateResource.cache
+C:\Users\N\source\repos\MyNotes\MyNotes\obj\Debug\MyNotes.csproj.CoreCompileInputs.cache
+C:\Users\N\source\repos\MyNotes\MyNotes\obj\Debug\MyNotes.exe
+C:\Users\N\source\repos\MyNotes\MyNotes\obj\Debug\MyNotes.pdb
+C:\Users\N\source\repos\MyNotes\MyNotes\obj\Debug\MyNotes.Form1.resources
+C:\Users\N\source\repos\MyNotes\MyNotes\obj\Debug\MyNotes.Controles.notePreviewControle.resources
+C:\Users\N\source\repos\MyNotes\MyNotes\obj\Debug\MyNotes.csprojAssemblyReference.cache
